@@ -1,2 +1,3 @@
-# avogadro-internal-iteration
-Lesson a Avogadro high school about internal iteration
+# Project Avogadro internal iteration
+
+Lesson at Avogadro high school, Torino, about internal iteration.
